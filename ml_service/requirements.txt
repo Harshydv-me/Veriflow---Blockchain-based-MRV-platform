@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+numpy
+xgboost
+scikit-learn==1.7.0
+joblib
+rasterio
+shapely
+planetary-computer
+pystac-client
+requests
+tqdm
+pyarrow
+h5py

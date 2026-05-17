@@ -126,6 +126,7 @@ graph TD
 ## 👥 Contributors
 
 - **Harsh Yadav** - *Lead Developer* - [@Harshydv-me](https://github.com/Harshydv-me)
+- **Tamanna Nathani** - *Lead Developer* - [@tamannanathani](https://github.com/tamannanathani)
 
 ---
 

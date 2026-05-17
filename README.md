@@ -21,6 +21,17 @@
 
 ---
 
+## 📸 Screenshots
+
+<table border="0">
+  <tr>
+    <td><img src="veriflow_app/assets/satellite.png" width="300"><br align="center"><b>Satellite Analysis</b></td>
+    <td><img src="veriflow_app/assets/drone.png" width="300"><br align="center"><b>Drone Verification</b></td>
+  </tr>
+</table>
+
+---
+
 ## 🏗️ System Architecture
 
 Veriflow is built as a microservices ecosystem to ensure scalability and reliability.
